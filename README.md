@@ -7,4 +7,6 @@
 
 项目打包编译 cnpm run build
 
-地址 国外GitHub：https://github.com/xcjpdx/uniapp_hmyg 国内Gitee：https://gitee.com/xcj178655989/uniapp_hmyg
+地址 
+国外GitHub：https://github.com/xcjpdx/uniapp_hmyg 
+国内Gitee：https://gitee.com/xcj178655989/uniapp_hmyg
